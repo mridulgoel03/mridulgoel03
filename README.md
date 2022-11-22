@@ -31,9 +31,6 @@ Currently trying my hand at AR/VR domain and Web3.0 🔗
 - 💬 Ask me about anything, I am happy to help
 
 
----
-
-[![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=spyder15&theme=react-dark)](https://github.com/Spyder15)
 
 
 ### 📊 Some Fun Stats:
@@ -78,8 +75,5 @@ ___
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
-
-### 🐍 Watch Snake eating my contribution :
-![snake svg](https://github.com/spyder15/spyder15/blob/output/github-contribution-grid-snake.svg)
 
 
