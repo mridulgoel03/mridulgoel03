@@ -24,7 +24,7 @@ Currently trying my hand at AR/VR domain and Web3.0 🔗
 
 - 💬 Ask me about **DSA,C,c++**
 
-- 📫 How to reach me **ghanshyamrajput1584@gmail.com**
+- 📫 How to reach me **goel.mridul555@gmail.com**
 
 - ⚡ Fun fact **try to code without coffee..**
 
