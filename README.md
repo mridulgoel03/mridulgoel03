@@ -1,8 +1,8 @@
-# Readme
+# Read.me
 [![@mridulgoel03's Holopin board](https://holopin.me/mridulgoel03)](https://holopin.io/@mridulgoel03)
 
-# Read.me
-DEtails
+
+* Details
 [![MasterHead](https://www.jonesday.com/-/media/files/publications/2019/05/when-coding-is-criminal/when-coding-is-criminal.jpg?h=800&w=1600&la=en&hash=5522AA91198A168017C511FCBE77E201)]
 <h1 align="center">Hi 👋, I'm Mridul Goel</h1>
 <h3 align="center">A passionate python and frontend developer from India</h3>
