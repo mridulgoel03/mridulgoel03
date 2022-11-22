@@ -4,13 +4,13 @@
 # Read.me
 DEtails
 [![MasterHead](https://www.jonesday.com/-/media/files/publications/2019/05/when-coding-is-criminal/when-coding-is-criminal.jpg?h=800&w=1600&la=en&hash=5522AA91198A168017C511FCBE77E201)]
-<h1 align="center">Hi 👋, I'm Ghanshyam rajput</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mridul Goel</h1>
+<h3 align="center">A passionate python and frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghanshyam1584&label=Profile%20views&color=0e75b6&style=flat" alt="ghanshyam1584" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mridulgoel03&label=Profile%20views&color=0e75b6&style=flat" alt="mridulgoel03" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ghanshy50500528" target="blank"><img src="https://img.shields.io/twitter/follow/ghanshy50500528?logo=twitter&style=for-the-badge" alt="ghanshy50500528" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mridulgoel03" target="blank"><img src="https://img.shields.io/twitter/follow/mridulgoel03?logo=twitter&style=for-the-badge" alt="mridulgoel03" /></a> </p>
 
 - 🔭 I’m currently working on **web development**
 
