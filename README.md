@@ -14,7 +14,7 @@ Currently trying my hand at AR/VR domain and Web3.0 🔗
 
 ### Talking about Personal Stuffs :
 
-- 👋 Hi, I’m [Mridul ](https://google.com)
+- 👋 Hi, I’m [Mridul ]([https://google.com](https://mridulgoel.netlify.app/))
 
 - 🔭 I’m currently working on **web development**
 
