@@ -75,5 +75,7 @@ ___
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
-
+<p align="center">
+  <img src="https://github.com/mridulgoel03/mridulgoel03/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
