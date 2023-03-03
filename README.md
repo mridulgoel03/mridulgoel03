@@ -68,7 +68,7 @@ ___
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=mridulgoel03&column=8&theme=algolia&no-frame=true"/>
 </a>
 
-[![@spyder15's Holopin board](https://holopin.me/mridulgoel03)](https://holopin.io/@mridulgoel03)
+[![@mridulgoel03's Holopin board](https://holopin.me/mridulgoel03)](https://holopin.io/@mridulgoel03)
 
 
 
