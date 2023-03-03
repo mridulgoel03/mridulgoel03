@@ -22,7 +22,7 @@ Currently trying my hand at AR/VR domain and Web3.0 🔗
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 💬 Ask me about **DSA,C,c++**
+- 💬 Ask me about **DSA,C,C++**
 
 - 📫 How to reach me **goel.mridul555@gmail.com**
 
