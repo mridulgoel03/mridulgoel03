@@ -2,7 +2,7 @@
 
 
 
-## Hello, I'm [Mridul Goel!](https://google.com)👋
+# Hello, I'm [Mridul Goel!](https://google.com)👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Frontend+Web+Developer;and+a+Python+Developer;Currently+working+on+WEB+3.0)](https://git.io/typing-svg)
     
 
