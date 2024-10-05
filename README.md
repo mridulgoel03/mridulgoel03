@@ -1,85 +1,100 @@
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 
+# Hello, I'm [Mridul Goel!](https://google.com) 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&center=true&vCenter=true&width=500&lines=Python+Developer;Blockchain+Explorer;Full+Stack+Developer)](https://git.io/typing-svg)
 
+## 👨‍💻 About Me:
 
-# Hello, I'm [Mridul Goel!](https://google.com)👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Frontend+Web+Developer;and+a+Python+Developer;Currently+working+on+WEB+3.0)](https://git.io/typing-svg)
-    
+- 🔭 **Currently Working on**: Web Development and Blockchain
+- 🎓 **Pursuing BTech**: ABES Institute of Technology, Ghaziabad
+- 🌱 **Learning**: AR/VR and Web 3.0 🔗
+- 💬 **Ask Me About**: Python, Web Development, C++, DSA
+- ⚡ **Fun Fact**: Try coding without coffee... if you dare! 😉
 
+### 📧 Reach Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridulgoel03/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goelgpt@gmail.com)
 
+---
 
-## Just an Introduction:
+## 🚀 My Tech Stack:
 
-Hi everyone, I'm Mridul Goel, A Student and Learner 🚀 from Ghaziabad Uttar Pradesh who is currently pursuing his graduation from ABES Institute of Technology. I am a tech-savvy person who always wants to gain new knowledge and experience and likes to build relationships with technocrats who do great work. I am a newbie and I have basic knowledge of technology 💻, I participate in various hackathons to learn and create some cool projects to enhance my profile as well as my skills.
+### Languages:
+![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-034D9A?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-034D9A?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-307BBD?style=for-the-badge&logo=mysql)
 
-I know Python and Web development and am good at analysis and analysis.
-Currently trying my hand at AR/VR domain and Web3.0 🔗
+### Frameworks & Technologies:
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+### Developer Tools:
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### Talking about Personal Stuffs :
+---
 
-- 👋 Hi, I’m [Mridul ](https://mridulgoel.netlify.app/)
+## 🎓 Education:
+- **Bachelor of Technology, Computer Science Engineering**
+  - ABES Institute of Technology, Ghaziabad
+  - GPA: 8.0 (2021 - 2025)
 
-- 🔭 I’m currently working on **web development**
+---
 
-- 👀 I’m currently partcipating in as much Hackathons as I can...
+## 🏆 Achievements:
+- Second Runner Up: SprintHacks by KIET
+- Finalist: Vihaan 6.0 by DTU (among 250+ teams)
+- Fellowship: WEB3 TRAILBLAZER by Social Foundation
+- First Runner Up: Awishkar by ISTE ABESIT
+- Exhibitor: Startup Mahakumbh 2024 at Bharat Mandapam, New Delhi
 
-- 🌱 I’m currently learning **Blockchain**
+---
 
-- 💬 Ask me about **DSA,C,C++**
+## 🔨 Key Projects:
+1. **Smart Attendance System**
+   - A facial recognition-based system using OpenCV to record attendance in real-time and output data to Excel.
+   - **Stack**: Pandas, OpenCV, Face Recognition
 
-- 📫 How to reach me **goel.mridul555@gmail.com**
+2. **HEALHUB**
+   - A chatbot-based symptom analyzer with VR meditation functionality built on Unity and Dialogflow.
+   - **Stack**: HTML/CSS, Unity Web, Dialogflow
 
-- ⚡ Fun fact **try to code without coffee..**
+3. **TCDS Smart Surveillance**
+   - Created a smart surveillance system using Python's GUI interface.
+   - **Libraries**: Pandas, TensorFlow, Facial Recognition, OpenCV
 
-- 💬 Ask me about anything, I am happy to help
+---
 
-
-
-
-### 📊 Some Fun Stats:
-| ![image](https://github-readme-stats.vercel.app/api?username=mridulgoel03&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgoel03&theme=midnight-purple) | 
-| --- | --- |
-😍 Total Views on Profile:<br><br>
-![Visitor Count](https://profile-counter.glitch.me/mridulgoel03/count.svg) |
-
-### 😺 Github Streak 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mridulgoel03&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
-
-### 🍁 My Skill stack :
-
-|               |           |
-|       ---     |    ---    |
-| `Web-Dev`     | ![HTML5](https://img.shields.io/badge/-HTML5-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-E24800?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-FE7601?style=for-the-badge&logo=javascript) ![Bootstrap](https://img.shields.io/badge/bootstrap-FE9A00?style=for-the-badge&logo=bootstrap&logoColor=white)|
-| `Languages`   | ![C++](https://img.shields.io/badge/-C++-034D9A?style=for-the-badge&logo=c%2B%2B) ![C](https://img.shields.io/badge/-C-034D9A?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-307BBD?style=for-the-badge&logo=mysql&logoColor=white)|
-| `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![devops](https://img.shields.io/badge/-devops-034D9A?style=for-the-badge&logo=devops%2B%2B)|
-
-
-___  
-
-### 🤝 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridulgoel03/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mridulgoel03)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mridulgoel03/)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goel.mridul555@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mridulgoel03)
-
-
-
-<h2>🏆 Github Profile Trophy</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=mridulgoel03&column=8&theme=algolia&no-frame=true"/>
-</a>
-
-[![@mridulgoel03's Holopin board](https://holopin.me/mridulgoel03)](https://holopin.io/@mridulgoel03)
-
-
-
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
-
+## 🏅 Certifications:
 <p align="center">
-  <img src="https://github.com/mridulgoel03/mridulgoel03/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="./certificate/cer1.png" alt="Certificate 1" width="300"/>
+  <img src="./certificate/cer2.png" alt="Certificate 2" width="300"/>
+  <img src="./certificate/cer3.png" alt="Certificate 3" width="300"/>
 </p>
 
+---
+
+## 📈 GitHub Stats:
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mridulgoel03&show_icons=true&theme=algolia" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mridulgoel03&theme=gruvbox&background=1A0505FB" />
+</p>
+
+---
+
+## 🔥 GitHub Profile Trophy:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mridulgoel03&theme=algolia&no-frame=true&column=6" />
+</p>
+
+---
+
+## 🏅 Holopin Badges:
+[![@mridulgoel03's Holopin board](https://holopin.me/mridulgoel03)](https://holopin.io/@mridulgoel03)
+
+---
+
+![GitHub Contribution Snake](https://github.com/mridulgoel03/mridulgoel03/blob/output/github-contribution-grid-snake.svg)
