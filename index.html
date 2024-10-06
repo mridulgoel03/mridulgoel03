@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Certificate Slideshow</title>
+</head>
+<body>
+  <h1>🎞️ Certificate Slideshow</h1>
+  <p align="center">
+    <img src="./certificates/cer1.jpg" alt="Slideshow" id="slideshow" width="400"/>
+  </p>
+
+  <script>
+    const images = [
+      './certificates/cer1.jpg', './certificates/cer2.jpg', './certificates/cer3.png',
+      './certificates/cer4.jpg', './certificates/cer5.jpg', './certificates/cer6.jpg',
+      './certificates/cer7.png', './certificates/cer8.jpg', './certificates/cer9.jpg',
+      './certificates/cer10.jpg', './certificates/cer11.jpg', './certificates/cer12.jpg',
+      './certificates/cer13.jpg', './certificates/cer14.jpg', './certificates/cer15.jpg',
+      './certificates/cer16.jpg', './certificates/gmc1.png', './certificates/gmc2.png',
+      './certificates/gmc3.png', './certificates/gmc4.png', './certificates/gmc5.png',
+      './certificates/gmc6.png', './certificates/gmc7.png', './certificates/gmc8.png',
+      './certificates/gmc9.png', './certificates/gmc10.png', './certificates/gmc11.png',
+      './certificates/gmc12.png', './certificates/gmc13.png', './certificates/gmc14.png',
+      './certificates/unce1.jpg', './certificates/unce2.jpg', './certificates/unce3.jpg',
+      './certificates/unce4.jpg', './certificates/unce5.jpg', './certificates/unce6.jpg',
+      './certificates/unce7.jpg', './certificates/uncer1.jpg', './certificates/uncer2.jpg',
+      './certificates/uncer3.jpg', './certificates/uncer4.jpg', './certificates/uncer5.jpg',
+      './certificates/uncer6.jpg', './certificates/uncer7.jpg', './certificates/uncer8.jpg',
+      './certificates/uncer9.jpg', './certificates/uncer10.jpg', './certificates/res1.png',
+      './certificates/res2.png'
+    ];
+
+    let index = 0;
+
+    function changeImage() {
+      document.getElementById('slideshow').src = images[index];
+      index = (index + 1) % images.length;
+    }
+
+    setInterval(changeImage, 3000); // Change image every 3 seconds
+  </script>
+</body>
+</html>
