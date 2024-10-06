@@ -69,11 +69,60 @@
 ---
 
 ## 🏅 Certifications:
+
 <p align="center">
-  <img src="./certificate/cer1.png" alt="Certificate 1" width="300"/>
-  <img src="./certificate/cer2.png" alt="Certificate 2" width="300"/>
-  <img src="./certificate/cer3.png" alt="Certificate 3" width="300"/>
+  <img src="./certificates/cer1.jpg" alt="Certificate 1" width="150"/>
+  <img src="./certificates/cer2.jpg" alt="Certificate 2" width="150"/>
+  <img src="./certificates/cer3.png" alt="Certificate 3" width="150"/>
+  <img src="./certificates/cer4.jpg" alt="Certificate 4" width="150"/>
+  <img src="./certificates/cer5.jpg" alt="Certificate 5" width="150"/>
+  <img src="./certificates/cer6.jpg" alt="Certificate 6" width="150"/>
+  <img src="./certificates/cer7.png" alt="Certificate 7" width="150"/>
+  <img src="./certificates/cer8.jpg" alt="Certificate 8" width="150"/>
+  <img src="./certificates/cer9.jpg" alt="Certificate 9" width="150"/>
+  <img src="./certificates/cer10.jpg" alt="Certificate 10" width="150"/>
+  <img src="./certificates/cer11.jpg" alt="Certificate 11" width="150"/>
+  <img src="./certificates/cer12.jpg" alt="Certificate 12" width="150"/>
+  <img src="./certificates/cer13.jpg" alt="Certificate 13" width="150"/>
+  <img src="./certificates/cer14.jpg" alt="Certificate 14" width="150"/>
+  <img src="./certificates/cer15.jpg" alt="Certificate 15" width="150"/>
+  <img src="./certificates/cer16.jpg" alt="Certificate 16" width="150"/>
+  <img src="./certificates/gmc1.png" alt="GMC Certificate 1" width="150"/>
+  <img src="./certificates/gmc2.png" alt="GMC Certificate 2" width="150"/>
+  <img src="./certificates/gmc3.png" alt="GMC Certificate 3" width="150"/>
+  <img src="./certificates/gmc4.png" alt="GMC Certificate 4" width="150"/>
+  <img src="./certificates/gmc5.png" alt="GMC Certificate 5" width="150"/>
+  <img src="./certificates/gmc6.png" alt="GMC Certificate 6" width="150"/>
+  <img src="./certificates/gmc7.png" alt="GMC Certificate 7" width="150"/>
+  <img src="./certificates/gmc8.png" alt="GMC Certificate 8" width="150"/>
+  <img src="./certificates/gmc9.png" alt="GMC Certificate 9" width="150"/>
+  <img src="./certificates/gmc10.png" alt="GMC Certificate 10" width="150"/>
+  <img src="./certificates/gmc11.png" alt="GMC Certificate 11" width="150"/>
+  <img src="./certificates/gmc12.png" alt="GMC Certificate 12" width="150"/>
+  <img src="./certificates/gmc13.png" alt="GMC Certificate 13" width="150"/>
+  <img src="./certificates/gmc14.png" alt="GMC Certificate 14" width="150"/>
+  <img src="./certificates/unce1.jpg" alt="UNC Certificate 1" width="150"/>
+  <img src="./certificates/unce2.jpg" alt="UNC Certificate 2" width="150"/>
+  <img src="./certificates/unce3.jpg" alt="UNC Certificate 3" width="150"/>
+  <img src="./certificates/unce4.jpg" alt="UNC Certificate 4" width="150"/>
+  <img src="./certificates/unce5.jpg" alt="UNC Certificate 5" width="150"/>
+  <img src="./certificates/unce6.jpg" alt="UNC Certificate 6" width="150"/>
+  <img src="./certificates/unce7.jpg" alt="UNC Certificate 7" width="150"/>
+  <img src="./certificates/uncer1.jpg" alt="Uncertified Certificate 1" width="150"/>
+  <img src="./certificates/uncer2.jpg" alt="Uncertified Certificate 2" width="150"/>
+  <img src="./certificates/uncer3.jpg" alt="Uncertified Certificate 3" width="150"/>
+  <img src="./certificates/uncer4.jpg" alt="Uncertified Certificate 4" width="150"/>
+  <img src="./certificates/uncer5.jpg" alt="Uncertified Certificate 5" width="150"/>
+  <img src="./certificates/uncer6.jpg" alt="Uncertified Certificate 6" width="150"/>
+  <img src="./certificates/uncer7.jpg" alt="Uncertified Certificate 7" width="150"/>
+  <img src="./certificates/uncer8.jpg" alt="Uncertified Certificate 8" width="150"/>
+  <img src="./certificates/uncer9.jpg" alt="Uncertified Certificate 9" width="150"/>
+  <img src="./certificates/uncer10.jpg" alt="Uncertified Certificate 10" width="150"/>
+  <img src="./certificates/res1.png" alt="Resource Certificate 1" width="150"/>
+  <img src="./certificates/res2.png" alt="Resource Certificate 2" width="150"/>
 </p>
+
+
 
 ---
 
