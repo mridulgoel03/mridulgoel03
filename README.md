@@ -6,13 +6,14 @@
 
 - 🔭 **Currently Working on**: Web Development and Blockchain
 - 🎓 **Pursuing BTech**: ABES Institute of Technology, Ghaziabad
-- 🌱 **Learning**: AR/VR and Web 3.0 🔗
-- 💬 **Ask Me About**: Python, Web Development, C++, DSA
+- 🌱 **Learning**: AI/ML and Web 3.0 🔗
+- 💬 **Ask Me About**: Python, Web Development, C, DSA
 - ⚡ **Fun Fact**: Try coding without coffee... if you dare! 😉
 
 ### 📧 Reach Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridulgoel03/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goelgpt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridulgoel03/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goelgpt@gmail.com)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mridulgoel03/)
 
 ---
 
@@ -39,32 +40,8 @@
 
 ## 🎓 Education:
 - **Bachelor of Technology, Computer Science Engineering**
-  - ABES Institute of Technology, Ghaziabad
+  - Dr. A.P.J. Abdul Kalam Technical University, Lucknow
   - GPA: 8.0 (2021 - 2025)
-
----
-
-## 🏆 Achievements:
-- Second Runner Up: SprintHacks by KIET
-- Finalist: Vihaan 6.0 by DTU (among 250+ teams)
-- Fellowship: WEB3 TRAILBLAZER by Social Foundation
-- First Runner Up: Awishkar by ISTE ABESIT
-- Exhibitor: Startup Mahakumbh 2024 at Bharat Mandapam, New Delhi
-
----
-
-## 🔨 Key Projects:
-1. **Smart Attendance System**
-   - A facial recognition-based system using OpenCV to record attendance in real-time and output data to Excel.
-   - **Stack**: Pandas, OpenCV, Face Recognition
-
-2. **HEALHUB**
-   - A chatbot-based symptom analyzer with VR meditation functionality built on Unity and Dialogflow.
-   - **Stack**: HTML/CSS, Unity Web, Dialogflow
-
-3. **TCDS Smart Surveillance**
-   - Created a smart surveillance system using Python's GUI interface.
-   - **Libraries**: Pandas, TensorFlow, Facial Recognition, OpenCV
 
 ---
 
@@ -122,7 +99,7 @@
   <img src="./certificates/res2.png" alt="Resource Certificate 2" width="150"/>
 </p>
 
-## Some of the online certificates of mine 😮‍💨
+### Some of the online certificates of mine 😮‍💨
 ---
 
 ## 🎞️ Certificate Slideshow:
@@ -135,14 +112,14 @@ To view the certificate slideshow, [click here](https://mridulgoel03.github.io/m
 ## 📈 GitHub Stats:
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mridulgoel03&show_icons=true&theme=algolia" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mridulgoel03&theme=gruvbox&background=1A0505FB" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mridulgoel03&theme=gruvbox&background=1A0505FB" />
 </p>
 
 ---
 
 ## 🔥 GitHub Profile Trophy:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mridulgoel03&theme=algolia&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mridulgoel03&theme=algolia&no-frame=true&column=9" />
 </p>
 
 ---
