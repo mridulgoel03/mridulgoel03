@@ -122,6 +122,7 @@
   <img src="./certificates/res2.png" alt="Resource Certificate 2" width="150"/>
 </p>
 
+## Some of the online certificates of mine 😮‍💨
 ---
 
 ## 🎞️ Certificate Slideshow:
