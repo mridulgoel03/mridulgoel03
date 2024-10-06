@@ -122,6 +122,11 @@
   <img src="./certificates/res2.png" alt="Resource Certificate 2" width="150"/>
 </p>
 
+---
+
+## 🎞️ Certificate Slideshow:
+
+To view the certificate slideshow, [click here](https://mridulgoel03.github.io/mridulgoel03/).
 
 
 ---
