@@ -11,9 +11,7 @@
 - ⚡ **Fun Fact**: Try coding without coffee... if you dare! 😉
 
 ### 📧 Reach Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridulgoel03/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goelgpt@gmail.com)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mridulgoel03/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridulgoel03/)  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goelgpt@gmail.com)   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mridulgoel03/)
 
 ---
 
@@ -129,4 +127,7 @@ To view the certificate slideshow, [click here](https://mridulgoel03.github.io/m
 
 ---
 
-![GitHub Contribution Snake](https://github.com/mridulgoel03/mridulgoel03/blob/output/github-contribution-grid-snake.svg)
+## 👀 Profile Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mridulgoel03&style=flat-square&color=blue" alt="profile views"/>
+</p>
