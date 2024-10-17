@@ -52,7 +52,6 @@
   <img src="./certificates/cer2.jpg" alt="Certificate 2" width="150"/>
   <img src="./certificates/cer3.png" alt="Certificate 3" width="150"/>
   <img src="./certificates/cer4.jpg" alt="Certificate 4" width="150"/>
-  <img src="./certificates/cer5.jpg" alt="Certificate 5" width="150"/>
   <img src="./certificates/cer6.jpg" alt="Certificate 6" width="150"/>
   <img src="./certificates/cer7.png" alt="Certificate 7" width="150"/>
   <img src="./certificates/cer8.jpg" alt="Certificate 8" width="150"/>
