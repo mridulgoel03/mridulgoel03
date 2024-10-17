@@ -47,6 +47,8 @@
 
 <p align="center">
   <img src="./certificates/cer1.jpg" alt="Certificate 1" width="150"/>
+  <img src="./certificates/udemy1.jpg" alt="Certificate 1" width="150"/>
+  <img src="./certificates/udemy2.jpg" alt="Certificate 1" width="150"/>
   <img src="./certificates/cer2.jpg" alt="Certificate 2" width="150"/>
   <img src="./certificates/cer3.png" alt="Certificate 3" width="150"/>
   <img src="./certificates/cer4.jpg" alt="Certificate 4" width="150"/>
