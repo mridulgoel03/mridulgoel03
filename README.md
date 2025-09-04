@@ -4,8 +4,7 @@
 
 ## 👨‍💻 About Me:
 
-- 🔭 **Currently Working on**: Web Development and Blockchain
-- 🎓 **Pursuing BTech**: ABES Institute of Technology, Ghaziabad
+- 🔭 **Currently Working on**: AI and Gen AI Development and Blockchain
 - 🌱 **Learning**: AI/ML and Web 3.0 🔗
 - 💬 **Ask Me About**: Python, Web Development, C, DSA
 - ⚡ **Fun Fact**: Try coding without coffee... if you dare! 😉
