@@ -38,7 +38,7 @@
 ## 🎓 Education:
 - **Bachelor of Technology, Computer Science Engineering**
   - Dr. A.P.J. Abdul Kalam Technical University, Lucknow
-  - GPA: 8.0 (2021 - 2025)
+  - GPA: 8.0 
 
 ---
 
